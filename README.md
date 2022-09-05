@@ -1,0 +1,2 @@
+# Whatsapp-Chat-Analysis
+Provides an insight into user's mental health conditions, recommends them like-minded people, boosts advertisement rates of the company, and yields a detailed analysis of the group for more user interaction. Utilized RegEx, BOW, Text Blob and Vader Sentiment on 5000+ messages to examine group dynamics. Used Tableau to construct an interactive dashboard for data visualization
